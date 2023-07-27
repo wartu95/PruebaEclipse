@@ -8,6 +8,8 @@ public class ejemploGit {
 		System.out.println("Hola alumnos");
 		
 		String nombre = "wellington";
+		int n = 21;
+		Double sueldo= 21.30;
 	}
 
 }
